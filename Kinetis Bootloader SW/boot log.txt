@@ -1,0 +1,479 @@
+======================================================================
+Current time is 10/21/2015 15:35:30
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 15:35:53
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 15:38:21
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 10/21/2015 15:39:11
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 15:52:38
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 10/21/2015 15:52:46
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 10/21/2015 15:53:10
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 10/21/2015 15:53:37
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 17:26:11
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 17:26:30
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/21/2015 17:50:19
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Error!
+======================================================================
+Current time is 10/21/2015 17:50:27
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 16:59:26
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:00:00
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:00:35
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:01:33
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:06:20
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:08:14
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:09:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:10:39
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 17:15:26
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Error!
+======================================================================
+Current time is 10/22/2015 17:15:32
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Error!
+======================================================================
+Current time is 10/22/2015 17:15:41
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Error!
+======================================================================
+Current time is 10/22/2015 17:15:54
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0xFF
+Error!
+======================================================================
+Current time is 10/22/2015 17:16:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 10/22/2015 18:19:38
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 10/22/2015 18:19:53
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:20:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:20:34
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:20:49
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:21:16
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:21:35
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:21:56
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:22:07
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:22:34
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:23:04
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:24:14
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 10/22/2015 18:24:57
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0x00
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0x00
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0x00
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0x00
+Verification failed at address 0x00001000, image: 0xF8, MCU: 0x00
+Error!
+======================================================================
+Current time is 10/22/2015 18:25:03
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:25:35
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:25:58
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:26:09
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:26:19
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:26:44
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:27:04
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:27:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Verification failed at address 0x00001466, image: 0x5A, MCU: 0xDA
+Error!
+======================================================================
+Current time is 10/22/2015 18:27:23
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/22/2015 18:27:47
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/23/2015 16:02:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 10/27/2015 12:27:12
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:27:40
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:29:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:29:25
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:29:50
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:30:09
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:30:30
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:30:55
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.bin
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 10/27/2015 12:31:18
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.bin
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
